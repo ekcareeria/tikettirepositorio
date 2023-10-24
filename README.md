@@ -1,0 +1,2 @@
+# tikettirepositorio
+Ohjelmistoprojektin etärepositorio tikettijärjestelmälle.
